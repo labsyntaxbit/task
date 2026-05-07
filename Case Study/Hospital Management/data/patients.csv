@@ -1,0 +1,7 @@
+patient_id,name,age,department,doctor_id,admission_date,discharge_date,insurance_coverage,discount,consultation_fee,room_charge,diagnostic_fee,surgery_fee
+1,John Doe,45,cardiology,101,2023-03-01,2023-03-05,1500,100,200,1000,500,2000
+2,Jane Smith,30,orthopedics,102,2023-03-02,2023-03-04,500,50,150,800,300,0
+3,Bob Johnson,60,cardiology,101,2023-03-03,,2000,200,250,1200,600,3000
+4,Alice Brown,25,neurology,103,2023-03-01,2023-03-03,400,0,180,600,400,0
+5,Charlie Wilson,50,cardiology,101,2023-03-04,2023-03-06,1800,150,220,1100,550,2500
+6,David Lee,55,cardiology,101,2023-03-05,2023-03-05,100,50,200,2000,1500,0

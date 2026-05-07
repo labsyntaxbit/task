@@ -1,0 +1,5 @@
+doctor_id,name,department,rating,punctuality,diagnosis_accuracy
+101,Dr. Smith,cardiology,4.5,95,90
+102,Dr. Jones,orthopedics,4.2,92,88
+103,Dr. Lee,neurology,4.8,98,95
+104,Dr. Patel,cardiology,4.0,90,85
