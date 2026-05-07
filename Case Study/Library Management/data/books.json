@@ -1,0 +1,29 @@
+[
+    {
+        "book_id": "B001",
+        "title": "Python Programming",
+        "author": "John Doe",
+        "genre": "Programming",
+        "isbn": "1234567890",
+        "price": 500,
+        "copies_available": 4
+    },
+    {
+        "book_id": "B002",
+        "title": "Data Structures",
+        "author": "Jane Smith",
+        "genre": "Computer Science",
+        "isbn": "0987654321",
+        "price": 400,
+        "copies_available": 3
+    },
+    {
+        "book_id": "B003",
+        "title": "Machine Learning",
+        "author": "Bob Johnson",
+        "genre": "AI",
+        "isbn": "1122334455",
+        "price": 600,
+        "copies_available": 2
+    }
+]

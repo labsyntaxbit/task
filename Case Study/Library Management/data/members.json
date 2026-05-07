@@ -1,0 +1,10 @@
+[
+    {
+        "member_id": "M001",
+        "name": "Alice",
+        "address": "123 Main St",
+        "contact": "1234567890",
+        "password": "pass123",
+        "borrowing_history": []
+    }
+]

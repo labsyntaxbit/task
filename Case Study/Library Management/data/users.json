@@ -1,0 +1,10 @@
+{
+    "librarian": {
+        "password": "admin123",
+        "role": "librarian"
+    },
+    "M001": {
+        "password": "pass123",
+        "role": "member"
+    }
+}
